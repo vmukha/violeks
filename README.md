@@ -17,6 +17,9 @@ Getting Started
 ### Deploy
 
     git push heroku master
+    
+### Demo
+[http://herokustatic.herokuapp.com/](http://herokustatic.herokuapp.com/)
 
     
 Adding Pages
